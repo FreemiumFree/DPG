@@ -13,11 +13,12 @@ components = [
     "Asset Management", 
     "Platform Operations", 
     "Security & Compliance", 
-    "Remaining Balance"
+    "Remaining Balance",
+    "Test",
 ]
 
-costs = [25.0, 18.0, 15.0, 12.0, 8.0, 7.0, 5.0, 4.0, 3.0, 3.0]
-percentages = [25.0, 18.0, 15.0, 12.0, 8.0, 7.0, 5.0, 4.0, 3.0, 3.0]
+costs = [25.0, 18.0, 15.0, 12.0, 8.0, 7.0, 5.0, 4.0, 3.0, 3.0, 2.0]
+percentages = [25.0, 18.0, 15.0, 12.0, 8.0, 7.0, 5.0, 4.0, 3.0, 3.0, 2.0]
 
 # Abbreviate component names to fit 15-character limit
 abbreviated_components = [
